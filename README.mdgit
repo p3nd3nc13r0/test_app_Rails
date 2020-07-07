@@ -1,0 +1,1 @@
+"# test_app_Rails"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:p3nd3nc13r0/test_app_Rails.gitgit push -u origin master                
